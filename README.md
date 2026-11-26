@@ -3,7 +3,7 @@
 Welcome! This is the capstone repository for my Master of Science in Data Science at the University of Maryland, Baltimore County (UMBC), for the Fall 2026 semester. 
 
 ## What This Project Does
-This capstone explores an end-to-end machine learning pipeline for neuro-oncology decision support. By combining 3D multi-parametric MRI scans (T1, T1ce, T2, and T2w) with patient clinical metadata, the system generates 3D tumor subregion segmentations using a 5-fold MONAI SegResNet ensemble. From those predicted masks, I extract quantitative radiomic features, run feature selection and collinearity pruning, and feed the refined feature set into Cox Proportional Hazards models to estimate overall and progression-free survival timelines.
+This capstone explores an end-to-end machine learning pipeline for neuro-oncology decision support. By combining 3D multi-parametric MRI scans (T1c, T1n, T2f, and T2w) with patient clinical metadata, the system generates 3D tumor subregion segmentations using a 5-fold MONAI SegResNet ensemble. From those predicted masks, I extract quantitative radiomic features, run feature selection and collinearity pruning, and feed the refined feature set into Cox Proportional Hazards models to estimate overall and progression-free survival timelines.
 
 ## Repository Structure
 * **`/app`**: An unfinished Streamlit web application prototype (`brain_tumor_app.py`) built to test live 3D MRI inference, segmentation visualization, and patient risk stratification.
