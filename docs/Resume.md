@@ -71,7 +71,3 @@ Germantown, MD 20874
   * High-throughput Radiomic Biomarkers for Non-Small Cell Lung Cancer Prognosis. Authored alongside principal investigator Patrick Tallon and contributing researchers.
 
 *References available upon request.*
-
-Academic Studies & Part-Time Work
-
-References available upon request.
