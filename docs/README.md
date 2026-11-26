@@ -15,7 +15,7 @@ For evaluators, reviewers, or casual visitors looking for the definitive, final 
 - **`Headshot_Ryan_Trask.jpg`**  
   - *Purpose:* The professional portrait image embedded into the resume and profile documentation.
 - **`Resume.md`**  
-  - *Purpose:* The updated professional resume of Ryan A. Trask.
+  - *Purpose:* The updated resume of Ryan A. Trask the author of this capstone.
 - **`Multimodal Brain Tumor Risk and Variable Assessment.pptx`**  
   - *Purpose:* The first progress presentation for the capstone project, outlining initial data analysis, preprocessing strategies for the BraTS dataset, and the foundational architecture plan.
 - **`Multimodal Brain Tumor Risk and Variable Assessment_EDA.pptx`**  
