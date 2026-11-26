@@ -21,8 +21,12 @@ The imaging dataset comprises multi-parametric 3D NIfTI medical scans sourced fr
 ---
 
 ## 2. Clinical & Genomic Metadata: cBioPortal
-Clinical outcome data, demographic markers, and genomic mutation profiles were compiled from cBioPortal. For detailed cohort breakdowns and study selections, please refer to the project presentation slides in the `/docs` directory.
+Clinical outcome data, demographic markers, and genomic mutation profiles were compiled from cBioPortal. 
 
 * **Access & Licensing:** Data can be queried and downloaded through the cBioPortal for Cancer Genomics platform under open-access research terms.
-* **Selected Cohorts & Studies:** Clinical and molecular data were integrated from the primary studies detailed in the project slides.
+* **Included Cohorts & Study Breakdown:** The clinical dataset maps uniquely to the following four neuro-oncology studies:
+  * `gbm_tcga_pan_can_atlas_2018` (98 cases)
+  * `lgg_tcga_pan_can_atlas_2018` (65 cases)
+  * `gbm_cptac_2021` (19 cases)
+  * `lggbm_tcga_pub` (4 cases)
 * **Consolidated Output:** The merged and cleaned clinical metadata table is structured as `combined_study_clinical_data.tsv`. This table provides overall survival days, status, progression metrics, patient age, biological sex, KPS, IDH subtype, MGMT promoter status, and genomic instability indices (such as Fraction Genome Altered and tumor mutation counts).
