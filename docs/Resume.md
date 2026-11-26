@@ -1,7 +1,7 @@
 # Ryan A. Trask
 somethingsomewhere0218@gmail.com  
 Germantown, MD 20874  
-[ Insert Headshot: `Headshot Ryan Trask.jpg` ]
+![Ryan Trask Headshot](./Headshot Ryan Trask.jpg)
 
 ---
 
