@@ -23,4 +23,4 @@ For evaluators, reviewers, or casual visitors looking for the definitive, final 
 - **`Multimodal Brain Tumor Risk and Variable Assessment_Final.pptx`**  
   - *Purpose:* **[Primary Presentation]** The cumulative capstone presentation summarizing the end-to-end model training, 3D segmentation performance, survival-prognosis projections, and final results/conclusions.
 - **`report.md`**  
-  - *Purpose:* **[Primary Written Report]** A thorough technical report detailing project design, model architecture, quantitative findings, operational limitations, and key achievements, complete with a direct link to the project presentation and its video walkthrough.
+  - *Purpose:* **[Written Report]** A thorough technical report detailing project design, model architecture, quantitative findings, operational limitations, and key achievements, complete with a direct link to the project presentation and its associated video.
