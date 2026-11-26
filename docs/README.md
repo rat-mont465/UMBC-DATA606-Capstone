@@ -1,4 +1,4 @@
-# Documentation & Project Presentations (`docs/`)
+# Documentation & Project Presentations
 
 This directory houses the comprehensive documentation, professional credentials, and milestone presentations associated with the Multimodal Brain Tumor (Glioma) Segmentation and Clinical Prognosis capstone project. 
 
