@@ -16,7 +16,7 @@ To run properly, the application expects:
 * This application utilizes the exact same environment configuration specified in the notebooks directory (`melonma_environment.yml`). 
 * To launch the app, ensure your environment is active and run:
   ```bash
-  streamlit run app.py
+  streamlit run brain_tumor_app.py
   ```
 
 ## Current Status & Limitations
