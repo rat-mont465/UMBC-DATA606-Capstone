@@ -1,7 +1,7 @@
 # Ryan A. Trask
 somethingsomewhere0218@gmail.com  
 Germantown, MD 20874  
-![Ryan Trask Headshot](./Headshot Ryan Trask.jpg)
+![Ryan Trask Headshot](./Headshot_Ryan_Trask.jpg)
 
 ---
 
