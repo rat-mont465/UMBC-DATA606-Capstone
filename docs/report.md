@@ -4,7 +4,7 @@
 
 **Author:** Ryan Alexander Trask
 
-**GitHub Repository:** https://github.com/rat-mont465/UMBC-DATA606-Capstone/tree/main
+**GitHub Repository:** [https://github.com/rat-mont465/UMBC-DATA606-Capstone/tree/main](https://github.com/rat-mont465/UMBC-DATA606-Capstone/tree/main)
 
 **LinkedIn Profile:** https://www.linkedin.com/in/ryan-trask-72101b2b4/
 
