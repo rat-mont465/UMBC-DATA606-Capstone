@@ -8,7 +8,7 @@
 
 **LinkedIn Profile:** https://www.linkedin.com/in/ryan-trask-72101b2b4/
 
-**PowerPoint Presentation:** https://github.com/rat-mont465/UMBC-DATA606-Capstone/blob/main/docs/Multimodal%20Brain%20Tumor%20Risk%20and%20Variable%20Assessment_Final.pptx
+**PowerPoint Presentation:** [https://github.com/rat-mont465/UMBC-DATA606-Capstone/raw/main/docs/Multimodal%20Brain%20Tumor%20Risk%20and%20Variable%20Assessment_Final.pptx](https://github.com/rat-mont465/UMBC-DATA606-Capstone/raw/main/docs/Multimodal%20Brain%20Tumor%20Risk%20and%20Variable%20Assessment_Final.pptx)
 
 **YouTube Video:**
 
