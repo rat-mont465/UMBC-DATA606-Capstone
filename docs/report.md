@@ -193,7 +193,7 @@ Comparing the best models across our three feature domains confirmed that integr
 
 ## 5. Application of the Trained Models
 
-To make the pipeline accessible to clinicians and researchers, we developed an interactive web application using **Streamlit** (`brain_tumor_app.py`).
+To make the pipeline accessible to clinicians and researchers, we developed an interactive web application using **Streamlit** (`brain_tumor_app.py`). NOTE: The application is still deeply flawed and not ready for clinical use as raw outputs have not been successfully converted into days interpretable immediately to humans.
 
 ### Key Application Features
 
