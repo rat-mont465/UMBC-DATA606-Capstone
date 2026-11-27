@@ -6,11 +6,11 @@
 
 **GitHub Repository:** [https://github.com/rat-mont465/UMBC-DATA606-Capstone/tree/main](https://github.com/rat-mont465/UMBC-DATA606-Capstone/tree/main)
 
-**LinkedIn Profile:** https://www.linkedin.com/in/ryan-trask-72101b2b4/
+**LinkedIn Profile:** [Watch Presentation](https://youtu.be/3eZ49C2H9h8)
 
 **PowerPoint Presentation:** [https://github.com/rat-mont465/UMBC-DATA606-Capstone/raw/main/docs/Multimodal%20Brain%20Tumor%20Risk%20and%20Variable%20Assessment_Final.pptx](https://github.com/rat-mont465/UMBC-DATA606-Capstone/raw/main/docs/Multimodal%20Brain%20Tumor%20Risk%20and%20Variable%20Assessment_Final.pptx)
 
-**YouTube Video:**
+**YouTube Video:** https://youtu.be/3eZ49C2H9h8
 
 ## 1. Background
 
